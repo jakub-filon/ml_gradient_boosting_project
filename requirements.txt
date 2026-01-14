@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+matplotlib
+seaborn
+category_encoders
+optuna-dashboard
